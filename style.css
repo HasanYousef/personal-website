@@ -1,0 +1,33 @@
+body {
+  font-family: Menlo, Consolas, "Courier New", monospace;
+  background: #ffffff;
+  color: #000000;
+  max-width: 640px;
+  margin: 3em auto;
+  padding: 0 1em;
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+}
+
+a {
+  color: #0000ee;
+}
+
+a:visited {
+  color: #551a8b;
+}
+
+ul {
+  margin-top: 0.3em;
+}
